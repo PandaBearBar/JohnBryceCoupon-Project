@@ -1,0 +1,12 @@
+.navbar-expand-lg{
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    margin-bottom: 0px;
+}
+.navbar {
+    position: relative;
+    z-index: 1000;
+    min-height: 10%;
+    border: 1px solid transparent;
+    flex: 1;
+}
